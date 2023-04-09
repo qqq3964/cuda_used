@@ -26,5 +26,5 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7 보통 경로는 옆과
 ![image](https://user-images.githubusercontent.com/97833069/230767005-4fbaa4d3-3c63-406a-bc4f-f208722121c2.png)
 ```
 마지막으로 pytorch 등등을 깔아서 적용하면되는데 버전은 아래 링크에서 확인가능
-[파이토치링크](https://pytorch.org/get-started/locally/)
 ```
+[파이토치링크](https://pytorch.org/get-started/locally/)
