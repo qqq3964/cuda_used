@@ -6,6 +6,6 @@ dxdiag -> 디스플레이에 들어가면 그래픽 사양확인가능
 ```
 ![image](https://user-images.githubusercontent.com/97833069/230761945-fb4f4d1b-89be-4eda-b834-9c2898cc05e6.png)</br>
 ```
-그 다음으로 드라이브를 설치해야한다.</br>
+그 다음으로 드라이브를 설치해야한다.
 ```
 [드라이브 설치 링크](https://www.nvidia.co.kr/Download/index.aspx?lang=kr)
