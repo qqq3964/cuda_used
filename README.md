@@ -19,8 +19,9 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\lib
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\include
 ```
 ![image](https://user-images.githubusercontent.com/97833069/230768503-fe47bc70-5537-448b-84b7-d214650b7c91.png)
-![image](https://user-images.githubusercontent.com/97833069/230767005-4fbaa4d3-3c63-406a-bc4f-f208722121c2.png)
 ```
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7 보통 경로는 옆과 같다.
 또한 계속할거냐고 물어보면 yes 덮어쓰기를 하면된다.
 ```
+![image](https://user-images.githubusercontent.com/97833069/230767005-4fbaa4d3-3c63-406a-bc4f-f208722121c2.png)
+
