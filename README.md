@@ -9,3 +9,7 @@ dxdiag -> 디스플레이에 들어가면 그래픽 사양확인가능
 그 다음으로 드라이브를 설치해야한다.
 ```
 [드라이브 설치 링크](https://www.nvidia.co.kr/Download/index.aspx?lang=kr)
+```
+이를 끝났으면 알맞은 버전의 cudnn을 다운받고 파일을 cudatoolkit다운받은 경로에 넣어준다.
+```
+![image](https://user-images.githubusercontent.com/97833069/230767005-4fbaa4d3-3c63-406a-bc4f-f208722121c2.png)
